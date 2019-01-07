@@ -1,7 +1,7 @@
 # DCF-Model
-DCF model excel template from CFI (Corporate Finance Institute).
-URL: https://corporatefinanceinstitute.com/
-Did DCF for Reliance Industries.
-The income sheet and balance sheet are available online and even here.
+DCF model excel template from CFI (Corporate Finance Institute).__
+URL: https://corporatefinanceinstitute.com/ __
+Did DCF for Reliance Industries.__
+The income sheet and balance sheet are available online and even here.__
 
 Got an IRR of 15% with some assumptions.
